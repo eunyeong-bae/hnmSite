@@ -32,3 +32,17 @@
 .search-input {
   border: none;
 }
+
+.card-container {
+  border:1px solid;
+}
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.style-margin {
+  margin: 20px 0;
+}

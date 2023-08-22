@@ -2,7 +2,7 @@
     "products":[
         {
             "id":0,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/ec/ef/ecef9d77c56c519e24a76b83331ae2c18f73f50d.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&call=url[file:/product/main]",
+            "img":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3e%2F98%2F3e98affb071fe233c48078a2ee924680b923f135.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/fullscreen]",
             "title":"벨티드 트윌 코트",
             "price":99900,
             "choice":true,
@@ -22,8 +22,8 @@
         },
         {
             "id":2,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/7a/49/7a4980a16ce6888b33481763ea1f0a05807f50d1.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&call=url[file:/product/main]",
-            "title":"와이드 하이웨이스트 진",
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/2f/fa/2ffad80efcfaf2772ba3de662712b6c0270fdf7a.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
+            "title":"하이웨이스트 테일러드 팬츠",
             "price":39900,
             "choice":false,
             "new":true,
@@ -32,9 +32,9 @@
         },
         {
             "id":3,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/10/34/10341727ce95aae07695e7b13392a1d802ffe1f3.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&call=url[file:/product/main]",
-            "title":"퍼프 슬리브 드레스",
-            "price":39900,
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/a7/16/a71665996f060180d044748d501e11f5f21a6c0e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
+            "title":"새틴 플리츠 스커트",
+            "price":59900,
             "choice":false,
             "new":true,
             "size":["S","M","L"]
@@ -42,9 +42,9 @@
         },
         {
             "id":4,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/0f/46/0f463d61dbddb48bea8e329d9693f17fbff7f925.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/22/28/22286ca942ff3725c249c65bc6f8220f1065482d.jpg],origin[dam],category[ladies_trousers_highwaisted],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
             "title":"프릴 디테일 블라우스",
-            "price":29900,
+            "price":49900,
             "choice":true,
             "new":false,
             "size":["S","M","L"]
@@ -52,7 +52,7 @@
         },
         {
             "id":5,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/95/20/9520af2b69e69ef18fbad1d2673d47b1afe2b107.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/d0/65/d06572f979c40049bbc0328aa2cec37087c983da.jpg],origin[dam],category[ladies_blazers],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
             "title":"자카드 셔츠 드레스",
             "price":39900,
             "choice":false,
@@ -62,7 +62,7 @@
         },
         {
             "id":6,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/66/eb/66ebc8ebbdc939176137327d43db5c22d2d0292f.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/d2/b0/d2b0969cfd185acd30fb63b6ab0483090cf3655b.jpg],origin[dam],category[ladies_trousers_highwaisted],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
             "title":"더블 브레스티드 재킷",
             "price":39900,
             "choice":true,
@@ -72,7 +72,7 @@
         },
         {
             "id":7,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/be/3c/be3cfb9b7d99937f42b99b859dee546f8a3216b7.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/44/03/44031fbc69c4f891ce9479c5adb7b3473b6c124e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
             "title":"오버사이즈 집업 후디",
             "price":99900,
             "choice":false,
@@ -82,7 +82,7 @@
         },
         {
             "id":8,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/ad/e9/ade9a2fa40f186b2db875ceb35ca279ca99b300a.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/7b/71/7b7190c7305aebe83a85f4d6e2dcfd2dc22d0657.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
             "title":"프린트 크롭트 탑",
             "price":14900,
             "choice":true,
@@ -92,7 +92,7 @@
         },
         {
             "id":9,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/44/a9/44a926e37e57244c829c3f7a049fc8aa629d276e.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/04/62/0462448c072066f9564ae92dac52572d439f2911.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
             "title":"프린트 티셔츠",
             "price":19900,
             "choice":false,
@@ -102,7 +102,7 @@
         },
         {
             "id":10,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/fa/54/fa547c437bf08076aa46dd66f1a2e6a2cf4a4e3e.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/73/7c/737cc8a960aa9107166f9985a2ca1615429a4115.jpg],origin[dam],category[ladies_tops_printed_tshirts],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
             "title":"와이드 트윌 팬츠",
             "price":19900,
             "choice":true,
@@ -112,7 +112,7 @@
         },
         {
             "id":11,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/d1/aa/d1aa5d5d4a3d0699689e7f6187514ad70dc958d6.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/bd/32/bd32bbf8e945d3958584840fe06c22735dad9592.jpg],origin[dam],category[ladies_divided_new_clothes],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
             "title":"플레어 로라이즈 진",
             "price":29900,
             "choice":true,
@@ -122,7 +122,7 @@
         },
         {
             "id":12,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/ec/6c/ec6c0b3d387ce9b51d68ee440b979291e929c773.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/d0/d6/d0d6d8b0846f7f013ee84774936d47869e83350a.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
             "title":"프린트 크롭트 탑",
             "price":14900,
             "choice":true,
@@ -132,7 +132,7 @@
         },
         {
             "id":13,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/37/43/37434b12a61d3e75cb8e7fcb2e0b6cd6ca028c5f.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/11/84/11843e9af12309e4b4fb493534a14c53ef2259b1.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
             "title":"플레어 로라이즈 진",
             "price":29900,
             "choice":false,
