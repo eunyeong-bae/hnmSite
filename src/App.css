@@ -1,8 +1,9 @@
-.login-container {
+.nav-login {
   display: flex;
   justify-content: flex-end;
   align-items: center;
   margin: 20px;
+  cursor: pointer;
 }
 
 .login-btn {
@@ -14,35 +15,76 @@
   justify-content: center;
 }
 
+.menu-area{
+  display: flex;
+  align-items:baseline;
+  margin-top: 10px;
+  padding-right: 10px;
+}
+
 .menu-list{
   display: flex;
+  width: calc(100% - 200px);
+  justify-content: center;
+  align-content: center;
   list-style-type: none;
+  font-size: 15px;
 }
 
 .menu-list li {
   padding: 10px;
 }
 
-.menu-area{
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.search-area{
+  width: 190px;
+  border-bottom: 1px solid;
 }
 
 .search-input {
   border: none;
+  margin-left: 3px;
+  font-size: 14px;
 }
 
 .card-container {
-  border:1px solid;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
 }
 
 .login-container {
+  width: 100vh;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
   padding: 20px;
+  border: 1px solid;
 }
 
 .style-margin {
   margin: 20px 0;
+}
+
+.product-container{
+  padding: 10px;
+}
+
+.product-img{
+  display: flex;
+  justify-content: flex-end;
+}
+
+#dropdown-basic{
+  background-color: white;
+  color:black;
+  border: 1px solid lightgray;
+}
+
+.product-btn{
+  width: 100%;
+  color: white;
+  background-color: black;
 }
