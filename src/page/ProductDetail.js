@@ -1,28 +1,28 @@
 import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom';
 import { Container, Row, Col,Dropdown } from 'react-bootstrap';
+import { useDispatch, useSelector } from 'react-redux';
+import { productAction } from '../redux/actions/productAction';
 
 const ProductDetail = () => {
   let { id } = useParams();
+  const dispatch = useDispatch();
 
-  const [product, setProduct] = useState(null);
-  const getProductDetail = async() => {
-    let url = `https://my-json-server.typicode.com/eunyeong-bae/hnmSite/products/${id}`;
-    let response = await fetch(url);
-    let data = await response.json();
-    console.log(data)
-    setProduct(data);
+  const getProductDetail = () => {
+    dispatch(productAction.getProductDetail(id));
   };
-
+  
   useEffect(() => {
     getProductDetail();
   }, []);
+  
+  const product = useSelector(state => state.product.productDetailList);
 
   return (
     <Container className='product-container'>
       <Row>
         <Col className='product-img'>
-          <img src={product?.img} />
+          <img width={200} src={product?.img} />
         </Col>
         <Col>
           <div style={{fontSize:'17px', marginBottom:'10px'}}>{product?.title}</div>
@@ -35,7 +35,7 @@ const ProductDetail = () => {
               </Dropdown.Toggle>
 
               <Dropdown.Menu>
-                { product?.size.map(item => {
+                { product && product['size']?.map(item => {
                   return <Dropdown.Item href='#/action-1'>{item}</Dropdown.Item>
                 })}
               </Dropdown.Menu>
